@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weather>
+    <city>New York</city>
+    <latitude>40.7128</latitude>
+    <longitude>-74.0060</longitude>
+    <temperature>22</temperature>
+    <humidity>60</humidity>
+</weather>
